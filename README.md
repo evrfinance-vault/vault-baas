@@ -1,4 +1,4 @@
-# 🏦 Vault BaaS
+# 🏦 Vayya BaaS
 BaaS complement to the financial SaaS for borrowers and small business owners.
 
 ## Hey Developers!
