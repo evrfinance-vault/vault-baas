@@ -1,4 +1,4 @@
-# 🏦 Vayya BaaS
+# 🏦 Kayya BaaS
 BaaS complement to the [financial SaaS](https://github.com/evrfinance-vayya/vayya-saas) for borrowers and small business owners.
 
 ## Hey Developers!
